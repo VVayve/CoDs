@@ -1,0 +1,31 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\                                                                                               \
+\   Walk through made by "Koriebonx98"                                                          \
+\   iw7 mod "https://github.com/Joelrau/iw7-mod"                                                \
+\                                                                                               \
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+LEGIT GAME REQUIRED
+
+PLEASE SUPPORT "JOEKRAU" WITH HIS AMAZING MOD CLIENT!!!
+
+Requiremmets:
+steam account with the orginal ownership of call of duty - infinite warfare and game fully downloaded
+iw7-mod.exe from the github above
+
+
+
+set up:
+1) Place "!start_zm_server.bat" into "steamapps\common\Call of Duty - Infinite Warfare" Folder
+2) Place "server_zm.cofg" into the "iw7-mod" folder witch is in the "common/Call of Duty - inf/"
+
+
+How to:
+once all steps are compleated open the "!start_zm_server.bat" and it should boot up a server ready to use
+
+bonus - "zombies.bat" goes in game root folder. obtain your ipv4 or the ipv4 of the dedicated server
+and place in the "zombies.bat" after ping.. what this will do is
+
+start the iw7-mod server on your pc, and then it launches another instance of iw7-mod.exe 
+and will launch the zombies part of the game and connect to your own server or whoeveres ip
+
